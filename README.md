@@ -1,3 +1,3 @@
 # MyProject
 test
-123456
+123
